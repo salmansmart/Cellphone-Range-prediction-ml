@@ -60,7 +60,8 @@ The dataset includes mobile specifications such as:
    - Logistic Regression
    - Decision Tree
    - Random Forest
-   - Other classification models
+   - knn
+   - svm
 
 5. Model Evaluation
    
@@ -74,8 +75,7 @@ The dataset includes mobile specifications such as:
 
 - Model achieved good classification performance
 - Identified key features influencing mobile pricing
-
-«(Update with your actual accuracy, e.g., 90%)»
+- acheived accuracy of 97%
 
 ---
 
@@ -100,10 +100,7 @@ The dataset includes mobile specifications such as:
 
 🙋‍♂️ Author
 
-Your Name
-
-- GitHub: https://github.com/your-username
-- LinkedIn: (Add your profile link)
+Mohammed Salman
 
 ---
 
